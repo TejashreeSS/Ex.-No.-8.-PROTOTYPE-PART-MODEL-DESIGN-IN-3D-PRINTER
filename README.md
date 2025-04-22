@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2025-04-22 at 10 14 56_48ca56d3](https://github.com/user-attachments/assets/9f8e5b45-0116-4bb8-839c-6c5eb5785f43)
-![WhatsApp Image 2025-04-22 at 10 14 57_a85cb63b](https://github.com/user-attachments/assets/5aca5a9a-eb12-4ecc-a4e6-93b7773dfcd2)
+![WhatsApp Image 2025-04-22 at 10 14 57_acc9db41](https://github.com/user-attachments/assets/9801f1c0-209e-426a-9511-696fa9c9e42a)
+![WhatsApp Image 2025-04-22 at 10 14 56_4adda4c8](https://github.com/user-attachments/assets/8386bc41-9366-4856-8e3a-335b43e64ad7)
 
 ### Name:Tejashree S S
 ### Register Number:212224100058
